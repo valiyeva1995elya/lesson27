@@ -1,0 +1,164 @@
+body{
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+.flex{
+    display: flex;
+    
+}
+.ai{
+    align-items: center;
+}
+header{
+    border-bottom: 1px solid #E6E6E6;
+}
+.nav{
+    margin-right: 300px;
+}
+.pd{
+    padding: 57px 208px 49px;
+    
+}
+.logo{
+    margin-right: 123px;
+}
+.text-17-600{
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 21px;
+
+}
+.text-17-500{
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #D9D9D9;
+}
+.gr{
+    color: #979391;
+
+}
+.icon{
+    width: 52px;
+    height: 52px;
+    border: 1px solid #ECECEC;
+    position: relative;
+}
+.cl{
+    background-color: #748E9C;
+    margin-left: 18px;
+}
+.jc-sb{
+    justify-content: space-between;
+}
+.mini-icon{
+    position: absolute;
+    left: 15px;
+    top: 10px;
+}
+.mr-32{
+    margin-right: 32px;
+}
+.title-main{
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 89px;
+    margin-bottom: 103px;
+}
+h3{
+    margin: 0;
+}
+.text-big{
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 41px;
+}
+.text-20-400{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.nav-main{
+    margin-bottom: 75px;
+}
+.icon-main{
+    width: 45px;
+    height: 45px;
+    border: 1px solid #D9D9D9;
+    position: relative;
+    
+
+}
+.icon-mini{
+    position: absolute;
+    left: 14px;
+    top: 18px;
+    
+    
+}
+.nav-main-left{
+    justify-content: flex-start;
+}
+.nav-main-right{
+    justify-content: flex-start;
+}
+.mr-26{
+    margin-right: 26px;
+}
+
+.link{
+    align-items: ;
+}
+.text-20-700{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.text-23-600{
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 28px;
+}
+.gr{
+    color: #637883;
+}
+span{
+    color: #979391;
+    font-weight: 500px;
+}
+.gr-gr{
+    color: #788D98;
+}
+.mr-{
+    margin-top: -45px;
+}
+.icon-num::after{
+    content: url(../img/Group.png);
+    position: relative;
+    left: 4px;
+    top: 3px;
+
+}
+.row{
+    width: 100%;
+}
+.cards{
+    flex-direction: column;
+}
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    width: 316px;
+    height: 80px;
+    border: 1px solid #DEDEDE;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    margin: 103px 0 156px;
+    
+    background-color: white;
+    
+}
